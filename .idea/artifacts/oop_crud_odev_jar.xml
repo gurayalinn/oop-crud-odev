@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="oop-crud-odev:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/oop_crud_odev_jar</output-path>
+    <root id="archive" name="oop-crud-odev.jar">
+      <element id="module-output" name="oop-crud-odev" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/mssql-jdbc-12.8.1.jre11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/sqlite-jdbc-3.47.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
